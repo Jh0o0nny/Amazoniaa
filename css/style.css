@@ -1,0 +1,23 @@
+body{background-color: #4d5054;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+}
+.container{text-align: center;}
+
+#title{
+    display: flex;
+    justify-content: center;
+    margin:0em 0em 4em 0em;}
+
+.figura{
+    border-radius: 15px;
+    background-color: rgb(47, 47, 47);
+    text-align: center;
+    margin: 5em;}
+
+#fonte{
+    margin-top: 20em;
+}
